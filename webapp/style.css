@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+.container {
+    background-color: rgb(207, 134, 45);
+    width: 20rem;
+    border: solid 3px black;
+    height: 15rem;
+}
+
+.Titre{
+    width: 200%;
+    margin-left: 30%;
+}
+
+.afficheur{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    margin-top: 2rem;
+    margin-bottom:2rem ;
+
+}
+
+.boutons {
+    width: 200%;
+    margin-left: 20%;
+}
+
+.button {
+    color: white;
+    background-color: black;
+}
